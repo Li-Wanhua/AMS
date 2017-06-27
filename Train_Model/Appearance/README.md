@@ -17,4 +17,6 @@ When loss can't down any further, Then divide learning rate by 2.
 2. For RGB-VGG-16, enter ./RGB-VGG file. Run python program 'python rgb_vgg.py'. The initial learning rate is 0.001.
 When loss can't down any further, Then divide learning rate by 2.
 -----
-
+# Where can I find the Pretrained Model
+1. For Depth-VGG-16, You can download the pretrained model in [here](https://www.baidu.com/)
+2. For RGB-VGG-16, You can download the pretrained model in [here](https://www.baidu.com/)
