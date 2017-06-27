@@ -3,11 +3,10 @@ Model used for ChaLearn LAP Large-scale Isolated Gesture Recognition Challenge (
 Team name: SYSU_ISEE
 
 ## Model Explanation
-A: appearance 
+A: appearance   
+M: motion  
+S: skeleton  
 
-M: motion
-
-S: skeleton
 ----
 
 In this model, we will use appearance, motion and skeleton information to recognize hand gestures.  
