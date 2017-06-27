@@ -1,28 +1,17 @@
 # AMS
 Model used for ChaLearn LAP Large-scale Isolated Gesture Recognition Challenge (Round 2) @ICCV 2017
+Team name: SYSU_ISEE
 
+## Model Explanation
 A: appearance 
 M: motion
 S: skeleton
 
+In this model, we will use appearance, motion and skeleton information to recognize hand gestures.
+For appearance information, we will use depth video and RGB video.
+For skeleton information, we will use skeleton data.
+For motion information, we will use optical flow data and RSI_OF(Remaped Optical Flow by Skeleton Information ) data
+Considering we only have RGB video and Depth video, so the first step is to generate skeleton data, optical flow data and RSI_OF data.
 
----
-dsadsa
-1. abc
-2. cde
-3. kjl
-4. dasdsa
-this will stop
 -----
-* hhh1
-* hhhh2
-* jjjj2
-* jjjjj3
 
-I will have a link [baidu](https://www.baidu.com)
-
-```
-printf('hello world');
-```
-
-dasdasd
