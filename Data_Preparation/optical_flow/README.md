@@ -2,6 +2,7 @@
 
 
 This part is the code for generating optical flow data.
+We will use TV-L1 algorithm to get optical flow data
 
 ----
 ## File Description
