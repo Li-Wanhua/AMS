@@ -4,7 +4,9 @@ Team name: SYSU_ISEE
 
 ## Model Explanation
 A: appearance 
+
 M: motion
+
 S: skeleton
 
 In this model, we will use appearance, motion and skeleton information to recognize hand gestures.
