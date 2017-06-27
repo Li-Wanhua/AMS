@@ -16,7 +16,7 @@ will write skeleton data.
 ----
 ## How to run the code
 
-1. install [RMPE](https://github.com/MVIG-SJTU/RMPE). Please follow the offical instruction to install RMPE.
+1. install [RMPE](https://github.com/MVIG-SJTU/RMPE). Please follow the official instruction to install RMPE.
  We will call the directory that you cloned RMPE into $RMPE_ROOT
 2. Download 'img_filename.zip', and unzip it. You will find 'test_filename, train_filename and valid_filename' three files.
 Then copy these three file to $RMPE_ROOT/examples/rmpe/util/.
