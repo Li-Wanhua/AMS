@@ -1,5 +1,5 @@
-#Generate Skeleton Data
+# Generate Skeleton Data
 
-We will use RMPE to get the skeleton data from RGB data.
+We use pose estimation to get the skeleton data from RGB data.
 
 ----
