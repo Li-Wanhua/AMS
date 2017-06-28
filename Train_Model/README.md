@@ -1,5 +1,7 @@
 # Train AMS Model
+
 This part shows how we train our model
+
 -----
 ## How to run the code
 1. Train Appearance Model. Details can be found in ./Appearance
