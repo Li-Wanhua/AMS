@@ -19,7 +19,7 @@ will write optical flow data.
 
 ## How to run the code
 1. Change the filepath in 'test_optical_flow.sh, train_optical_flow.sh, valid_optical_flow.sh' to your own filepath.
-2. Make directory which will save optical flow data. Details can be found in ./mkd  
+2. Make directories which will save optical flow data. Details can be found in ./mkd  
 3. Input './test_optical_flow.sh', './train_optical_flow.sh' and './valid_optical_flow.sh' and run.
 
 -----
