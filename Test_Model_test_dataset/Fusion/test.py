@@ -10,15 +10,6 @@ rgblog = np.load('s_logits_6.npy')
 
 
 
-arg_sklog = np.argmax(sklog,1)
-arg_oflog = np.argmax(oflog,1)
-arg_rsi_of_log = np.argmax(rsi_of_log,1)
-arg_deplog = np.argmax(deplog,1)
-arg_diflog = np.argmax(diflog,1)
-arg_rgblog = np.argmax(rgblog,1)
-
-
-
 avg8log = sklog.copy()
 shape = avg8log.shape
 for i in range(shape[0]):
