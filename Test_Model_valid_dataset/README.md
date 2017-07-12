@@ -2,9 +2,9 @@
 
 After training step, we can use the trained model to predict the result on valid dataset.
 
-See our own trained model:  [here](http://pan.baidu.com/s/1hrZxSiS)
+See our own trained model:  [here](http://pan.baidu.com/s/1hrZxSiS) (You also can fount it in Test_Model_test_dataset file)
 
-password: 4sl3 (You also can fount it in Test_Model_test_dataset file)
+password: 4sl3 
 
 ------
 ## How to run the code
