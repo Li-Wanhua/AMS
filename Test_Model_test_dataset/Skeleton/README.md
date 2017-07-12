@@ -6,8 +6,7 @@ Skeleton model takes skeleton data as input.
 ----
 ## How to run the code
 1. 
-``` 
-cd ./Skeleton  
+```   
 cd ./labels  
 unzip labels.zip
 cd ..
@@ -30,4 +29,4 @@ python code/skeleton_pred.py
 ```
 python ./code/three_to_one.py 
 ```
-Run three_to_one.py. Then you will find 'logits_of.npy' in './Skeleton/code/', which is the final result of skeleton model. 
+Run three_to_one.py. Then you will find 'logits_skeleton.npy' in './Skeleton/code/', which is the final result of skeleton model. 
