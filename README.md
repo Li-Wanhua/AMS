@@ -8,7 +8,7 @@ M: motion
 S: skeleton  
 
 In this model, we will use appearance, motion and skeleton information to recognize hand gestures.  
-For appearance information, we will use depth video and RGB video.  
+For appearance information, we will use depth video, RGB video and depth dynaminc images.  
 For skeleton information, we will use skeleton data.  
 For motion information, we will use optical flow data and RSI_OF(Remaped Optical Flow by Skeleton Information ) data.  
 
