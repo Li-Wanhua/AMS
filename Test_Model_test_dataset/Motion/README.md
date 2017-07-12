@@ -3,7 +3,7 @@
 
 This Model consist of two small models: Optical Flow model and RSI-OF model.   
 Optical Flow model takes optical flow data as input.   
-RSI-OF model takes RSI-OF data videos as input.   
+RSI-OF model takes RSI-OF data as input.   
 
 ----
 ## How to run the code
