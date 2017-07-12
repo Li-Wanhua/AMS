@@ -1,4 +1,4 @@
-# Test Appearance Model on test dataset 
+# Test Appearance Model on test dataset  
 
 This Model consist of three small models: depth model, RGB model and depth dynamic images model. 
 Depth model takes depth videos as input. 
