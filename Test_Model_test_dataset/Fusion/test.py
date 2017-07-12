@@ -1,12 +1,12 @@
 import numpy as np
 
 
-sklog = np.load('s_logits_1.npy')
-oflog = np.load('s_logits_2.npy')
-rsi_of_log = np.load('s_logits_3.npy')
-deplog = np.load('s_logits_4.npy')
-diflog = np.load('s_logits_5.npy')
-rgblog = np.load('s_logits_6.npy')
+sklog = np.load('logits_skeleton.npy')
+oflog = np.load('logits_of.npy')
+rsi_of_log = np.load('logits_rsiof.npy')
+deplog = np.load('logits_dep.npy')
+diflog = np.load('logits_depdi.npy')
+rgblog = np.load('logits_rgb.npy')
 
 
 
