@@ -28,12 +28,12 @@ mkdir ModelPara
 ```
 python code/depth_pred.py
 ```
-After executed it, you can find a file named 'logits.npy' in './Depth/code/'. 
+     After executed it, you can find a file named 'logits.npy' in './Depth/code/'. 
 
 5. Considering we have three trained model for depth model, you have to re-operate 2 ~ 4 step three times for three different trained model. Then you have to rename three different 'logits.npy' as 'logits_1.npy','logits_2.npy' and 'logits_3.npy'
 
 6. 
-'''
+```
 python ./code/three_to_one.py 
-'''
+```
 Run three_to_one.py. Then you will find 'logits_dep.npy' in './Depth/code/', which is the final result of depth model. 
