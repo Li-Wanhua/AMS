@@ -5,3 +5,11 @@ After training step, we can use the trained model to predict the result on test 
 See our own trained model:  [here](http://pan.baidu.com/s/1hrZxSiS)
 
 password: 4sl3
+
+------
+## How to run the code
+1. Use Apparance model to predict the result on test dataset. More details can be found in ./Appearance
+2. Use Motion model to predict the result on test dataset. More details can be found in ./Motion
+3. Use Skeleton model to predict the result on test dataset. More details can be found in ./Skeleton
+4. Fusion these three models' result. More details can be found in ./Fusion
+
