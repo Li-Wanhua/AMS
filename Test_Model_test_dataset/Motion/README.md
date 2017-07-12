@@ -29,7 +29,7 @@ python code/of_pred.py
 ```
    After executed it, you can find a file named 'logits.npy' in './Optical_Flow/code/'. 
 
-5. Considering we have three trained model for depth model, you have to re-operate 2 ~ 4 step **three times for three different trained model**. Then you have to rename three different 'logits.npy' as 'logits_1.npy','logits_2.npy' and 'logits_3.npy'
+5. Considering we have three trained model for optical flow model, you have to re-operate 2 ~ 4 step **three times for three different trained model**. Then you have to rename three different 'logits.npy' as 'logits_1.npy','logits_2.npy' and 'logits_3.npy'
 
 6. 
 ```
