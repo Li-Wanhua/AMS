@@ -16,7 +16,7 @@ password: 4sl3
 ---------
 ## Implementation Details
 
-1). Platform: TensorFlow
-2). GPU: GTX TITAN X 12GB of memory
-3). Memory required: 8GB
+1). Platform: TensorFlow  
+2). GPU: GTX TITAN X 12GB of memory  
+3). Memory required: 8GB  
 4). Time: In our own test, we use 3 GPU in the same time, the expended time is about 25 hours.
