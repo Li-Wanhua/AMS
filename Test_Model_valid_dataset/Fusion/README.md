@@ -11,4 +11,4 @@ python fusion.py
 g++ -o pre_2_txt pre_2_txt.cpp
 ./pre_2_txt
 ```
-3. Now you can see a file named 'test_prediction.txt'. The final predict result is in this file.
+3. Now you can see a file named 'valid_prediction.txt'. The final predict result is in this file.
