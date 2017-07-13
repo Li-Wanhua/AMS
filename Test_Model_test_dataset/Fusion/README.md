@@ -4,11 +4,11 @@ When you already test appearance, motion and skeleton model on test dataset, now
 
 -----
 ## How to run the code
-1. For appearance model, you have 'logits_dep.npy', 'logits_rgb.npy' and 'logits_depdi.npy'. For motion model, you have 'logits_of.npy' and 'logits_rsiof.npy'. For skeleton model, you have 'logits_skeleton.npy'. Copy these six file to ./Fusion
+1. For appearance model, you have 'logits_dep.npy', 'logits_rgb.npy' and 'logits_depdi.npy'. For motion model, you have 'logits_of.npy' and 'logits_rsiof.npy'. For skeleton model, you have 'logits_skeleton.npy'. Copy these six files to ./Fusion
 2. 
 ```
 python fusion.py
 g++ -o pre_2_txt pre_2_txt.cpp
 ./pre_2_txt
 ```
-
+3. Now you can see a file named 'test_prediction.txt'. The final predict result is in this file.
