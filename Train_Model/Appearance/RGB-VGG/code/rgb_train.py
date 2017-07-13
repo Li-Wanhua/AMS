@@ -189,11 +189,11 @@ def run_train():
                 fout.write(info + '\n')
                 fout.flush()
 
-            test_accury_1,test_accury_5,test_loss = run_epoch(real_lr,sess,test_config.keep_prob, fout,test_config.batch_size, train_model, data_test, tf.no_op(),2,test_writer,istraining=False) 
-            info = "Final: Test accury(top 1): %.3f Test accury(top 5): %.3f Loss %.3f" % (test_accury_1,test_accury_5,test_loss)
-            print (info)
-            fout.write(info + '\n')
-            fout.flush()
+            #test_accury_1,test_accury_5,test_loss = run_epoch(real_lr,sess,test_config.keep_prob, fout,test_config.batch_size, train_model, data_test, tf.no_op(),2,test_writer,istraining=False) 
+            #info = "Final: Test accury(top 1): %.3f Test accury(top 5): %.3f Loss %.3f" % (test_accury_1,test_accury_5,test_loss)
+            #print (info)
+            #fout.write(info + '\n')
+            #fout.flush()
             
             
             train_writer.close()
