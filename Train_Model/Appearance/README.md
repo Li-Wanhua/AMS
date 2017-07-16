@@ -18,5 +18,7 @@ When loss can't down any further, Then divide learning rate by 2.
 When loss can't down any further, Then divide learning rate by 2.
 -----
 # Where can I find the Pretrained Model
-1. For Depth-VGG-16, You can download the pretrained model in [here](https://www.baidu.com/)
+1. For Depth-VGG-16, You can download the pretrained model in [here](http://pan.baidu.com/s/1qYa3ST2)
+
+   password：4nbr
 2. For RGB-VGG-16, You can download the pretrained model in [here](https://www.baidu.com/)
