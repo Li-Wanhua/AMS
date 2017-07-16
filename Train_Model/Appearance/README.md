@@ -26,3 +26,7 @@ When loss can't down any further, Then divide learning rate by 2.
 
    password: wbw7
    
+3. For DepthDynamicImages, You can download the pretrained model in [here](http://pan.baidu.com/s/1pL6tXHL)
+   
+   password：8mcx
+
